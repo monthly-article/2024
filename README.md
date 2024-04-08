@@ -4,9 +4,6 @@
 
 ### Youngkyu Song - iOS
 - 1번 아티클
-- 2번 아티클
-- 3번 아티클
-- 4번 아티클
 
 ### Hyeonwoo Kim - FrontEnd
 - Vue 공식 문서 뿌시기
