@@ -5,6 +5,7 @@
 ### Youngkyu Song - iOS
 - [Apple Vision Pro 챌린지 Part.3 세션](https://youngkdevlog.tistory.com/63)
 - Swift 찍먹하기 🍟
+- iOS App을 빌드하면 내부에선 어떤 일이 일어날까?
 
 ### Hyeonwoo Kim - FrontEnd
 - Vue 공식 문서 뿌시기
