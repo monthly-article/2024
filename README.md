@@ -12,4 +12,5 @@
   - [템플릿 문법 · 반응형 기초 · 계산되어진 속성](https://klmhyeonwooo.tistory.com/115)
   - [라이프사이클 · 이벤트 핸들링 · 바인딩(폼, 클래스, 스타일)](https://klmhyeonwooo.tistory.com/116)
   - [감시자 · 템플릿 참조 · 조건부 및 목록 렌더링](https://klmhyeonwooo.tistory.com/117)
+- [네이티브와 크로스 플랫폼 어플리케이션 그리고 하이브리드 앱](https://klmhyeonwooo.tistory.com/120)
 - 리액트 네이티브 시작하기 🎉
