@@ -5,7 +5,7 @@
 ### Youngkyu Song - iOS
 - [Apple Vision Pro 챌린지 Part.3 세션](https://youngkdevlog.tistory.com/63)
 - Swift 찍먹하기(https://youngkdevlog.tistory.com/65)
-- WWDC23 SwiftData 세션 정리
+- SwiftData 알아보기(https://youngkdevlog.tistory.com/67)
 
 ### Hyeonwoo Kim - FrontEnd
 - Vue 공식 문서 뿌시기
