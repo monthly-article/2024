@@ -6,6 +6,7 @@
 - [Apple Vision Pro 챌린지 Part.3 세션](https://youngkdevlog.tistory.com/63)
 - [Swift 찍먹하기](https://youngkdevlog.tistory.com/65)
 - [SwiftData 알아보기](https://youngkdevlog.tistory.com/67)
+- [모듈화란? with Tuist](https://youngkdevlog.tistory.com/68)
 
 ### Hyeonwoo Kim - FrontEnd
 - Vue 공식 문서 뿌시기
