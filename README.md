@@ -17,3 +17,4 @@
 - [캐치테이블에서 사용하는 Vanilla Extract이 뭘까?](https://klmhyeonwooo.tistory.com/124)
 - [3분만에 브라우저 익스텐션 만들어보기](https://klmhyeonwooo.tistory.com/126)
 - [다국어를 지원할 때 언어에 따라 다른 스타일 시트 적용하기 with 라이브 코딩](https://klmhyeonwooo.tistory.com/127)
+- [JSDoc를 통한 자바스크립트 타입 힌트 제공하기](https://klmhyeonwooo.tistory.com/130)
