@@ -8,6 +8,7 @@
 - [SwiftData 알아보기](https://youngkdevlog.tistory.com/67)
 - [모듈화란? with Tuist](https://youngkdevlog.tistory.com/68)
 - [Swift 메모리 관점에서의 Image](https://youngkdevlog.tistory.com/69)
+- [Swift6.0 접근제어자 Access Control](https://youngkdevlog.tistory.com/70)
 
 ### Hyeonwoo Kim - FrontEnd
 - Vue 공식 문서 뿌시기
