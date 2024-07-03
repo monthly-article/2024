@@ -8,6 +8,7 @@
 - [SwiftData 알아보기](https://youngkdevlog.tistory.com/67)
 - [모듈화란? with Tuist](https://youngkdevlog.tistory.com/68)
 - [Swift 메모리 관점에서의 Image](https://youngkdevlog.tistory.com/69)
+- [Swift6.0 접근제어자 Access Control](https://youngkdevlog.tistory.com/70)
 
 ### Hyeonwoo Kim - FrontEnd
 - Vue 공식 문서 뿌시기
@@ -20,4 +21,5 @@
 - [다국어를 지원할 때 언어에 따라 다른 스타일 시트 적용하기 with 라이브 코딩](https://klmhyeonwooo.tistory.com/127)
 - [JSDoc를 통한 자바스크립트 타입 힌트 제공하기](https://klmhyeonwooo.tistory.com/130)
 - [getComputedStyle과 parseFloat, parseInt의 조합](https://klmhyeonwooo.tistory.com/133)
-- [React의 커밋 페이즈, 렌더 페이즈 단계](https://klmhyeonwooo.tistory.com/132)
+  [React의 커밋 페이즈, 렌더 페이즈 단계](https://klmhyeonwooo.tistory.com/132)
+  [Reduce로 코드 클린하게 만들기](https://klmhyeonwooo.tistory.com/135)
